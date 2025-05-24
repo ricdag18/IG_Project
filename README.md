@@ -1,0 +1,1 @@
+After commiting the 5th homework (i.e RayTracing) i just realized that the names of the previous projects may be misleading (w.r.t the actual name of the project), since i've called them "homework_x". Hope this is not a problem!
